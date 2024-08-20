@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name = "dorian-yaml-uniq"
-  s.version = "0.0.4"
+  s.version = File.read("VERSION").strip
   s.summary = "uniq yaml file from yaml path"
   s.description = s.summary
   s.authors = ["Dorian Marié"]
