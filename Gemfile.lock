@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    dorian-yaml-uniq (0.0.5)
+    dorian-yaml-uniq (1.0.0)
       dorian-arguments
       yaml
 
